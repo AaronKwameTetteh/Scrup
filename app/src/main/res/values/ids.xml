@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_home" type="id" />
+    <item name="sendMessageBtn" type="id" />
+    <item name="messageText" type="id" />
+    <item name="receiverFragment" type="id" />
+</resources>

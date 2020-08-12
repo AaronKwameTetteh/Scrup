@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703713508871",
+    "firebase_url": "https://scrup-cc12d.firebaseio.com",
+    "project_id": "scrup-cc12d",
+    "storage_bucket": "scrup-cc12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703713508871:android:6a151092f2c6ff7b65b4a2",
+        "android_client_info": {
+          "package_name": "w9057646.tees.ac.uk.scrup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703713508871-87ufn7tpheah0i4qi10q0tmbap4bc6lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "w9057646.tees.ac.uk.scrup",
+            "certificate_hash": "22cb87c5a381b8cddc1a9675bf43bc8337778b97"
+          }
+        },
+        {
+          "client_id": "703713508871-50oi4epcq916at3siis3u481naaptd6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDp682SblQdYcoSB7VJPu7H6xtYzLy8fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703713508871-50oi4epcq916at3siis3u481naaptd6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

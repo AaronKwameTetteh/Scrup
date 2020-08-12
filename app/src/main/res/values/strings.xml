@@ -29,8 +29,21 @@
     <string name="fragment1">Fragment1</string>
     <string name="fragment2">Fragment2</string>
     <string name="click_me">Click Me</string>
-    <string name="tab_text_1">Chat</string>
-    <string name="tab_text_2">Status</string>
-    <string name="tab_text_3">Calls</string>
+    <string name="tab_text_1">Welcome</string>
+    <string name="tab_text_2">About</string>
+    <string name="tab_text_3">Help</string>
     <string name="start">Start</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">Yes</string>
+    <string name="sure_texts">Are You Sure</string>
+    <string name="add_item">Add Item</string>
+    <string name="save_button">Save</string>
+    <string name="image_button">Image</string>
+    <string name="hint_size">Item Size</string>
+    <string name="hint_color">Item Color</string>
+    <string name="hint_qty">Item Quantity</string>
+    <string name="hint_item">Item Name</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="update_text" />
+    <string name="edit_time" />
 </resources>

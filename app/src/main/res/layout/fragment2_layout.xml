@@ -9,7 +9,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="About"
-        android:textSize="30sp"/>
+        android:text="This is a shopping list App designed to help shoppers jot down their shopping item without any hustle !"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
 
 </LinearLayout>

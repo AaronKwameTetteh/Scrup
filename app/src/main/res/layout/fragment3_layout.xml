@@ -9,7 +9,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Help"
-        android:textSize="30sp"/>
+        android:text="Hello!! Got questions? We've got answers. Search help articles below"
+        android:textSize="25sp"/>
+
+    <androidx.appcompat.widget.SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+
 
 </LinearLayout>

@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="16dp"
+    android:background="@drawable/rc"
     tools:context=".CreateAccountActivity">
 
     <ProgressBar
@@ -54,14 +55,14 @@
 
 
         <Button
+            android:id="@+id/create_acct_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/create_acct_button"
-            android:textColor="@color/colorAccent"
+            android:layout_marginTop="16dp"
             android:background="@android:color/transparent"
-            android:textStyle="bold"
             android:text="@string/createtexts"
-            android:layout_marginTop="16dp"/>
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold" />
     </LinearLayout>
 
 </LinearLayout>
